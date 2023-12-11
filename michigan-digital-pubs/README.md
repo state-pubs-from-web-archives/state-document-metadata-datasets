@@ -5,6 +5,10 @@ This folder contains the Metadata datasets extracted from the [Michigan State OA
 
 ### Descriptive stats on the Michigan dublin core metadata.
 
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
+
 | Element Name  | Records with Element Instances  | Percentage of Records with Element Instances | Unique data values in Element Instances| Mean Instances per record | Mode Instances per record | Frequency of Mode Instances per record | Entropy | Gini_coefficient |
 |--|--|--|--|--|--|--|--|
 | title | 4993 | 100.0% | 2286 | 1 | 1 | 88.98% | 0.825 | 0.584 |
