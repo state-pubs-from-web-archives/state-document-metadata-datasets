@@ -5,9 +5,6 @@ This folder contains the Metadata datasets extracted from the [Michigan State OA
 
 ### Descriptive stats on the Michigan dublin core metadata.
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
 
 | Element Name | Records with Element Instances | Percentage of Records with Element Instances | Unique data values in Element Instances | Mean Instances per record | Mode Instances per record | Frequency of Mode Instances per record | Entropy | Gini_coefficient |
 | :---:   | :---: | :---: | :---:   | :---: | :---: | :---: | :---: | :---: |
@@ -26,11 +23,12 @@ This folder contains the Metadata datasets extracted from the [Michigan State OA
 | type | 2361 | 47.29% | 7 | 1 | 1 | 47.29% | 0.722 | 0.509 |
 | format | 2368 | 47.43% | 5 | 1 | 1 | 47.43% | 0.401 | 0.666 |
 | identifier | 4993 | 100.0% | 7421 | 2 | 3 | 47.37% | 0.988 | 0.210 |
-Table  : 1 Basic Stats for Michigan State Collection
+
+	Table  : 1 Basic Stats for Michigan State Collection
 
 
 
-				Total_records 		: 	88549
-				Deleted_records 	: 	18,089
-				Available_records 	:	70460
+				Total_records 		: 	5446
+				Deleted_records 	: 	453
+				Available_records 	:	4993
 
