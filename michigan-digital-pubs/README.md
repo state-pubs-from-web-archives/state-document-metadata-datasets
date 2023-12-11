@@ -24,7 +24,7 @@ This folder contains the Metadata datasets extracted from the [Michigan State OA
 | format | 2368 | 47.43% | 5 | 1 | 1 | 47.43% | 0.401 | 0.666 |
 | identifier | 4993 | 100.0% | 7421 | 2 | 3 | 47.37% | 0.988 | 0.210 |
 
-	Table  : 1 Basic Stats for Michigan State Collection
+					Table  : 1 Basic Stats for Michigan State Collection
 
 
 
