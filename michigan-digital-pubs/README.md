@@ -10,7 +10,7 @@ This folder contains the Metadata datasets extracted from the [Michigan State OA
 | Seconds | 301   | 283   |
 
 | Element Name | Records with Element Instances | Percentage of Records with Element Instances | Unique data values in Element Instances | Mean Instances per record | Mode Instances per record | Frequency of Mode Instances per record | Entropy | Gini_coefficient |
-| :---:   | :---: | :---: | :---:   | :---: | :---: | :---: | :---: |
+| :---:   | :---: | :---: | :---:   | :---: | :---: | :---: | :---: | :---: |
 | title | 4993 | 100.0% | 2286 | 1 | 1 | 88.98% | 0.825 | 0.584 |
 | creator | 806 | 16.14% | 207 | 1 | 1 | 16.14% | 0.758 | 0.659 |
 | contributor | 0 | 0% | 0 | 0 | 0 | 0% | 0 | None |
