@@ -3,7 +3,7 @@ This folder contains the Metadata datasets extracted from the [Michigan State OA
 1. michigan_new.dc.xml.gz : This file contains all the harvested dublin core metadata in XML format. We can easily extract these metadata into .csv format by using the script [dc_total.py script](https://github.com/state-pubs-from-web-archives/oaipmh-tools/blob/main/tools/dc_total.py)
 2. michigan.jsonl.gz : This file also contains the harvested metadata but in jsonl format.
 
-### Descriptive stats on the Michigan dublin core metadata.
+### Descriptive stats of the Michigan dublin core metadata.
 
 
 | Element Name | Records with Element Instances | Percentage of Records with Element Instances | Unique data values in Element Instances | Mean Instances per record | Mode Instances per record | Frequency of Mode Instances per record | Entropy | Gini_coefficient |
